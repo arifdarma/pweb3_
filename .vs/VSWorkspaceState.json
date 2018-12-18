@@ -1,0 +1,16 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\app",
+    "\\app\\config",
+    "\\app\\views",
+    "\\app\\views\\index",
+    "\\app\\views\\layouts",
+    "\\public",
+    "\\public\\css",
+    "\\public\\js",
+    "\\public\\source"
+  ],
+  "SelectedNode": "\\app\\config\\routing.php",
+  "PreviewInSolutionExplorer": false
+}
